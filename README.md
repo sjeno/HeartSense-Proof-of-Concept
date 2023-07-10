@@ -35,7 +35,7 @@ git clone https://github.com/sjeno/HeartSense-Proof-of-Concept
 
 Navigate to the directory of the project:
 
-cd https://github.com/sjeno/HeartSense-Proof-of-Concept
+cd HeartSense-Proof-of-Concept
 
 Run the Python script:
 
