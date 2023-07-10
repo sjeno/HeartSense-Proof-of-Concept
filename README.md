@@ -43,9 +43,7 @@ streamlit run App.py
 
 
 Contact
-If you encounter any issues, feel free to contact me at <your_email>.
+If you encounter any issues, feel free to contact me at x22156577@student.ncirl.ie.
 
-
-Please replace `<repository_url>` with the actual URL of your repository and `<project_directory>` with the actual directory of the project on your local machine. Also, replace `<your_email>` with your actual email address.
 
 
