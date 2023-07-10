@@ -22,24 +22,25 @@ You can install the dependencies using pip. It's recommended to first update pip
 ```shell
 pip install --upgrade pip
 
-Then, install the dependencies:
+**Then, install the dependencies:**
 
 pip install numpy pandas matplotlib seaborn sklearn
 
-Running the Project
+**Running the Project**
 Once the dependencies are installed, you can run the project.
 
-Clone this repository to your local machine:
+**Clone this repository to your local machine:**
 
 git clone https://github.com/sjeno/HeartSense-Proof-of-Concept
 
-Navigate to the directory of the project:
+**Navigate to the directory of the project:**
 
 cd HeartSense-Proof-of-Concept
 
-Run the Python script:
+**Run the Python script:**
 
-python App.py
+streamlit run App.py
+
 
 Contact
 If you encounter any issues, feel free to contact me at <your_email>.
