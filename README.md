@@ -24,7 +24,7 @@ pip install --upgrade pip
 
 **Then, install the dependencies:**
 
-pip install numpy pandas matplotlib seaborn sklearn
+pip install numpy pandas matplotlib seaborn sklearn scikit-learn
 
 **Running the Project**
 Once the dependencies are installed, you can run the project.
