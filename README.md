@@ -39,7 +39,7 @@ cd HeartSense-Proof-of-Concept
 
 Run the Python script:
 
-python heart_disease_prediction.py
+python App.py
 
 Contact
 If you encounter any issues, feel free to contact me at <your_email>.
