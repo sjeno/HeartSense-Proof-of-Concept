@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
 # Load the data
-data = pd.read_csv(r'C:\Users\User\Desktop\heart_disease_uci.csv')
+data = pd.read_csv(https://github.com/sjeno/HeartSense-Proof-of-Concept/blob/main/heart_disease_uci.csv)
 
 # Split the data into features and target
 X = data.drop('num', axis=1)
