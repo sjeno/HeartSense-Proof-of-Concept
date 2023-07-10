@@ -31,11 +31,11 @@ Once the dependencies are installed, you can run the project.
 
 Clone this repository to your local machine:
 
-git clone <repository_url>
+git clone https://github.com/sjeno/HeartSense-Proof-of-Concept
 
 Navigate to the directory of the project:
 
-cd <project_directory>
+cd https://github.com/sjeno/HeartSense-Proof-of-Concept
 
 Run the Python script:
 
