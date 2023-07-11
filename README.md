@@ -3,6 +3,9 @@
 
 This project uses machine learning to predict the presence of heart disease based on the Heart Disease UCI dataset. The project makes use of several Python libraries including pandas, numpy, matplotlib, seaborn, sklearn, and others. 
 
+The user must have the latest version of Python and Git downloaded.
+
+
 ## Dependencies
 
 The project depends on the following Python libraries:
@@ -12,6 +15,7 @@ The project depends on the following Python libraries:
 - matplotlib
 - seaborn
 - sklearn
+- streamlit
 
 It's recommended to use a virtual environment to manage the dependencies and avoid conflicts with other Python projects.
 
@@ -24,7 +28,7 @@ pip install --upgrade pip
 
 **Then, install the dependencies:**
 
-pip install numpy pandas matplotlib seaborn sklearn scikit-learn
+pip install numpy pandas matplotlib seaborn sklearn scikit-learn streamlit
 
 **Running the Project**
 Once the dependencies are installed, you can run the project.
